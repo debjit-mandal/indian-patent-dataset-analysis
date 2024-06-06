@@ -60,7 +60,7 @@ Enables academic research on innovation, technology transfer, and other related 
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/indian-patent-dataset-analysis.git
+    git clone https://github.com/debjit-mandal/indian-patent-dataset-analysis.git
     cd indian-patent-dataset-analysis
     ```
 
